@@ -1,0 +1,148 @@
+
+#wrapper{
+	width: 1300px;
+
+	}
+#header{
+	background-image: url('../img/Homepageaa.png');
+	opacity: 0.8;
+	}
+.wp-inner{
+	margin: 0px auto;
+	width: 1200px;
+	height: 852px;
+}
+#content{
+	height: 1065px;
+}
+#footer{
+	float: left;
+	width: 1300px;
+}
+.img-big img{
+	width: 1300px;
+}
+.menu{
+	width: 200px;
+	float: left;
+	padding-top: 136px;
+}
+.menu ul li a{
+	color: #000000;
+    line-height: 47px;
+    letter-spacing: 3px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.text-center{
+	padding-top: 360px;
+	float: left;
+	font-weight: 700;
+	font-size: 70px;
+	margin-left: 165px;
+	color: #000000;
+	letter-spacing: 5px;
+}
+.happypoints{
+	width: 718px;
+	float: left;
+	height: 715px;
+	text-align: center;
+	background-image: url('../img/Homepage.png');
+}
+.happypoints h1{
+	margin-top: 376px;
+    font-size: 50px;
+    color: #fefefe;
+}
+.hamsa{
+	background-image: url('../img/Homepagea.png');
+	height: 715px;
+	text-align: center;
+	float: left;
+	width: 582px;
+}
+.hamsa h1{
+	margin-top: 376px;
+	font-size: 50px;
+	color: #fefefe;
+}
+.hamsa b{
+	color: #fefefe;
+    font-size: 26px;
+}
+.tag {
+	padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.img-content{
+	width: 1300px;
+	height: 720px;
+}
+.img1{
+	width: 254px;
+	float: left;
+}
+.wp-inner1{
+	width: 1100px;
+	height: 135px;
+	margin: 0px auto;
+}
+.subcribe{
+	padding-top: 20px;
+    text-transform: uppercase;
+    
+    color: black;
+    width: 470px;
+}
+.subcribe input{
+	width: 405px;
+    height: 30px;
+}
+.subcribe button{
+	height: 30px;
+    background: #000000;
+    color: white;
+    border: none;
+}
+.list-item{
+	width: 405px;
+    padding-top: 20px;
+    font-size: 25px;
+    float: left;
+}
+.list-item i{
+	float: left;
+	margin-right: 25px;
+}
+.text-left{
+	float: right;
+    padding-top: 20px;
+}
+.customer b{
+	color: #000000;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.customer ul li a {
+	line-height: 20px;
+	color: #000000;
+}
+.text-footer{
+	height: 50px;
+	margin-left: 234px;
+	margin-top: 50px;
+}
+.text-footer ul{
+	float: left;
+	text-align: center;
+}
+.text-footer ul li{
+	float: left;
+}
+.text-footer ul li a {
+	display: block;
+	color: black;
+}
